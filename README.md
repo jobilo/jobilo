@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about data analytics
-- 📫 How to reach me: loj3@spu.edu
+- 📫 How to reach me: jobimlslo@gmail.com
 - 😄 Pronouns: she/her
 
 <!--
